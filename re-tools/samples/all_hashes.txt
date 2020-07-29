@@ -1,0 +1,4 @@
+ssdeep,1.1--blocksize:hash:hash,filename
+96:RZTWB6WBilMGIlZIpMRiUHs9ga7fNuB3eoBqSitrqN:RZ6oWQMZMpLrI4osSi,"/home/dmf/new_github/infosec/re-tools/samples/test_01"
+96:RIXTekB6WBn+ZZS9+MRSM8vKk7fAuBWeoBqSAXLgj:RIX9oWgZS9+bz7xosSA,"/home/dmf/new_github/infosec/re-tools/samples/test_02"
+96:RIXTtB6WBn+ZZSg+MRSM8vKk7fXuBWeoBqSAXLgj:RIXRoWgZSg+bzyxosSA,"/home/dmf/new_github/infosec/re-tools/samples/test_03"
