@@ -1,0 +1,28 @@
+# This is a simple dotfile showing the basic features of a graph
+digraph sample_graph {
+  # Nodes are specified with the node command, if note labeled seperately
+  # Their labels are their names
+  node [shape=circle] node_a, node_b;
+  # The shape will automatically be a circle
+  node [label="Node Gamma"] node_c;
+  # Node attributes are passed down the line, so if I want to
+  # avoid everything being called 'Node gamma', I have to reset
+  # the label to the node name
+  node [shape=square, label="\N"] node_1, node_2;
+  node [shape=doublecircle] node_3;
+  # Edge attributes are put in square brackets; label is the text label
+  # for the graph
+  node_1 -> node_a [ label="Transition 1,A" ];
+  node_a -> node_1;
+  node_b -> node_b [ label="Transition B,B" ];
+  node_c -> node_2;
+  node_2 -> node_1;
+  # Color is controlled with the color attribte
+  node_2 -> node_3 [color = "blue"];
+  node_2 -> node_a;
+  # Style lets you specify dotted, bold, &c.
+  node_2 -> node_b [style = "dotted"];
+  node_2 -> node_c;
+  label="Sample Graph";
+  fontsize=14;
+}
