@@ -1,3 +1,13 @@
+
+
+Analyzing Packet Captures with Python. Part 1: The Basics: https://vnetman.github.io/pcap/python/pyshark/scapy/libpcap/2018/10/25/analyzing-packet-captures-with-python-part-1.html
+
+Reading Pcap files with Scapy: https://incognitjoe.github.io/reading-pcap-with-scapy.html
+
+
+TRAFFIC ANALYSIS EXERCISES: https://malware-traffic-analysis.net/training-exercises.html
+
+
 # Network-Log-and-Traffic-Analysis
 Identify malicious behavior and attacks using Machine Learning with Python
 # LAB A
