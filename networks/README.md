@@ -1,3 +1,7 @@
+port_scan_detector: https://github.com/alexamanpreet/port_scan_detector
+
+dpkt is a python module for fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols: https://dpkt.readthedocs.io/en/latest/index.html
+
 Лекции по курсу "Компьютерные сети", начальный уровень https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1
 
 Продвинутые темы: https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh_w4_jtRnKE11aqeRldCFI
