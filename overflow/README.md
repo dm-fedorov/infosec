@@ -1,3 +1,6 @@
+GitHub запустил статический анализ кода на уязвимости: https://habr.com/ru/company/dcmiran/blog/521578/
+
+
 Чем опасны процессорные уязвимости. Часть 1: Атаки по побочным каналам
 https://safe-surf.ru/specialists/article/5265/648025/
 https://safe-surf.ru/specialists/article/5265/650521/

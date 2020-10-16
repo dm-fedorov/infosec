@@ -12,11 +12,13 @@
 
 Статьи:
 
+* Building Network Tools with Scapy: https://thepacketgeek.com/scapy/building-network-tools/
 * https://habr.com/ru/post/249563/
 * Deep dive into networking through Scapy: http://www.obriain.com/primers/scapy/index.php
 * https://blog.deiteriylab.com/intro-in-ipv6/
 * https://null-byte.wonderhowto.com/how-to/create-packets-from-scratch-with-scapy-for-scanning-dosing-0159231/
 * https://samsclass.info/123/proj14/123p9scapy.htm
+* http://www.obriain.com/primers/scapy/index.php
 
 Building Network Tools with Scapy: https://thepacketgeek.com/scapy/building-network-tools/
 
