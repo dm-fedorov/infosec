@@ -1,17 +1,3 @@
-GitHub запустил статический анализ кода на уязвимости: https://habr.com/ru/company/dcmiran/blog/521578/
-
-
-Чем опасны процессорные уязвимости. Часть 1: Атаки по побочным каналам
-https://safe-surf.ru/specialists/article/5265/648025/
-https://safe-surf.ru/specialists/article/5265/650521/
-
-
-Переполнение буфера в стеке: 
-https://habr.com/ru/company/ua-hosting/blog/354894/
-https://habr.com/ru/company/ua-hosting/blog/354896/
-
-все: https://habr.com/ru/company/ua-hosting/blog/435948/
-
 
 Writing a Simple Buffer Overflow Exploit
 https://www.youtube.com/watch?v=oS2O75H57qU

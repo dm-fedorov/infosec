@@ -11,7 +11,6 @@
 * Data Science
 
 * Introduction to Data Science
-* Introduction to Data Science with R
 * Hunting
 
 # Visualization
